@@ -62,3 +62,6 @@ gem 'sidekiq'
 gem 'sinatra', '~> 2.0.0.beta2'
 
 gem 'adminlte-rails'
+
+gem 'simple_form'
+gem "slim-rails"
