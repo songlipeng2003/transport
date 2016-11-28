@@ -60,3 +60,5 @@ gem 'devise'
 
 gem 'sidekiq'
 gem 'sinatra', '~> 2.0.0.beta2'
+
+gem 'adminlte-rails'
