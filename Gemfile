@@ -56,3 +56,5 @@ gem 'activeadmin', '~> 1.0.0.pre4'
 gem 'inherited_resources', github: 'activeadmin/inherited_resources'
 gem 'devise'
 
+gem 'sidekiq'
+gem 'sinatra', '~> 2.0.0.beta2'
